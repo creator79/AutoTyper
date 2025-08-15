@@ -1,3 +1,4 @@
-.*dist
-.*build
-.*exe
+dist/
+build/
+*.exe
+*.spec

@@ -721,7 +721,7 @@ def main():
     palette.setColor(QtGui.QPalette.ButtonText, QtGui.QColor(230, 230, 230))
     app.setPalette(palette)
 
-    window = AutoTyperWindow()
+    window = AutoTyperWindow() 
     window.show()
     sys.exit(app.exec_())
 
