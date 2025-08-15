@@ -1,0 +1,6 @@
+PyQt5>=5.15.0
+pynput>=1.7.0
+pyautogui>=0.9.53
+psutil>=5.8.0
+pywin32>=300; platform_system=="Windows"
+pyinstaller>=5.0.0
